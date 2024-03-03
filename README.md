@@ -72,22 +72,17 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=enesalici&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+<br/> 
 <br/>  
 
-
+<div align="center">
   
+</div>
+
 
 <br/>  
-
-  
-
-<br/>  
-
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
