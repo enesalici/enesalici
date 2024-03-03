@@ -75,7 +75,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -84,10 +83,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=enesalici&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
