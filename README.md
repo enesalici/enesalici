@@ -1,7 +1,12 @@
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
 ### <div align="center">I'm ENES, a full-stack web developer👨‍💻</div>  
   
 
-- 🌱 I’m currently learning .NET and ANGUL  
+- 🌱 I’m currently learning .NET and ANGULAR  
   
 
 <br/>  
@@ -54,11 +59,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/enesalici" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/enesalici" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/enesalici" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https.nesss" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -70,19 +75,26 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=enesalici&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=enesalici&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesalici&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
 
-<div align="center">
+
+## Listening on spotify  
   
-</div>
-
 
 <br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=000000&bar_color_cover=true" /></div>  
+
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qesbab4koif6lguut42c55o7uu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" /></div>
+  
+
+<br/>  
+
+
 <br />
 
