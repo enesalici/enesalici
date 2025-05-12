@@ -6,7 +6,7 @@
 ### <div align="center">I'm ENES, a full-stack web developer👨‍💻</div>  
   
 
-- 🌱 I’m currently learning .NET and ANGULAR  
+- 🌱 I’m currently learning about javascript
   
 
 <br/>  
